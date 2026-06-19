@@ -1,0 +1,10 @@
+numpy==1.26.4
+torch==2.5.1
+matplotlib==3.6.0
+wandb==0.26.1
+opencv-python-headless==4.10.0.84
+gymnasium[atari]==1.2.3
+ale-py==0.11.2
+AutoROM[accept-rom-license]==0.6.1
+moviepy==2.2.1
+gdown==5.2.0
