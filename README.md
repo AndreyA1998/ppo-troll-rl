@@ -11,4 +11,4 @@ This project is devoted to the comparison of the training processes of a CNN age
 **runner.py** - utils for rollouts sampling,  
 **requirements.txt** - requirements for Python libs.
 
-wandb.ai [report](https://wandb.ai/andreya1998-iai-msu/PPOvsTROLL/reports/PPO-vs-TROLL-Comparison-on-Atari-Games--VmlldzoxNzI4MjM1MQ) with interactive graphics.
+wandb.ai [report](https://api.wandb.ai/links/andreya1998-iai-msu/sk62c3mp) with interactive graphics.
